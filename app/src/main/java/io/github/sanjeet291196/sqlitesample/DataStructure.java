@@ -7,6 +7,7 @@ package io.github.sanjeet291196.sqlitesample;
 public class DataStructure {
     public int DataId;
     public String Data;
+    public String Color;
 
     public DataStructure() {
     }

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/sanjit/Desktop/android/SQLiteSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ac1b0e248ded459cab36115e125d262d932842e9">
+        <dex dex="/home/sanjit/Desktop/android/SQLiteSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02c2047de08c3688985588f10c465fe88ecd616e/classes.dex" />
+    </item>
+
+</items>

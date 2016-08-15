@@ -31,6 +31,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        if (getIntent().getExtras().getString("GID") != null) {
+            //noinspection ConstantConditions
+            myRef = FirebaseDatabase.getInstance().getReference(getIntent().getExtras().getString("GID"));
+        }
+
         dataText = (EditText) findViewById(R.id.data_text_view);
         dataList = (ListView) findViewById(R.id.data_list);
 

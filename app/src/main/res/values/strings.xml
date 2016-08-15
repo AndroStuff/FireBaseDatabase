@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SQLite Sample</string>
+    <string name="enter_groupid_here">Enter GroupId Here</string>
+    <string name="login">Login</string>
 </resources>
