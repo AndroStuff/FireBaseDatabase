@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "174992333354",
+    "firebase_url": "https://sqlite-sample.firebaseio.com",
+    "project_id": "sqlite-sample",
+    "storage_bucket": "sqlite-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174992333354:android:9a1a3e3329eba62b",
+        "android_client_info": {
+          "package_name": "io.github.sanjeet291196.sqlitesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174992333354-faqd266ujt85i7ig9nrndgk5g3f56fpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoQutXgk6wfXlxyGjtcBS1KmnnacC7Cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
