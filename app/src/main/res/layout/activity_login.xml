@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:onClick="login"
         android:text="@string/login"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:textColor="#ffffff" />
 
 </LinearLayout>
